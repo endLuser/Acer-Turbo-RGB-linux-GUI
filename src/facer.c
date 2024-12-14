@@ -30,6 +30,8 @@
 #include <linux/workqueue.h>
 #include <linux/debugfs.h>
 #include <linux/slab.h>
+#include <linux/uaccess.h>
+#include <asm/uaccess.h>
 #include <linux/input.h>
 #include <linux/cdev.h>
 #include <linux/input/sparse-keymap.h>
