@@ -3,20 +3,11 @@
 # Unofficial Acer Gaming RGB Keyboard Backlight and Turbo Mode Linux Kernel Module GUI
 _For Acer Predator, Acer Helios, Acer Nitro_
 
-<!-- ![Acer Gaming Keyboard](keyboard.webp) -->
-
-[![Good First Issues](https://img.shields.io/github/issues/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-[![Help Wanted Issues](https://img.shields.io/github/issues/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) 
-[![Help Wanted PRs](https://img.shields.io/github/issues-pr/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) 
-[![GitHub Issues](https://img.shields.io/github/issues/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/issues?q=is%3Aopen)
-
-[![Discord Server](https://dcbadge.vercel.app/api/server/bNa4Qw8rPH)](https://discord.gg/ybWvSRfSY5)
-
 --- 
 
 ### Description
-
-This project extends the `acer-wmi` Linux kernel module to support Acer gaming functions, including **Turbo Mode** and **RGB keyboard backlighting** for various Acer laptops such as Predator, Helios, and Nitro series. Inspired by the [faustus (for ASUS)](https://github.com/hackbnw/faustus) project, it reverse-engineers the official Predator Sense app to interact with low-level WMI methods.
+( This is a work in progress software)
+This project extends the `acer-predator-turbo-and-rgb-keyboard-linux-module` to Provide GUI functions, including **Turbo Mode** and **RGB keyboard backlighting** for various Acer laptops such as Predator, Helios, and Nitro series.
 
 **Warning:**  
 This module is developed **without official support** from Acer and is based on reverse-engineering. As such, it may not be compatible with all Acer models. Use at your own risk.
@@ -191,16 +182,6 @@ sudo pacman -R Predator-Sense-systemd-git
 
 ---
 
-### Contributions
-
-This project would not be possible without the amazing contributions from the community. To see a full list of contributors, visit the [contributors page](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/graphs
-
-/contributors).
-
-If you'd like to help, please see the [contribution guidelines](CONTRIBUTING.md) and [open an issue](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module/issues).
-
----
-
 ### License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -210,7 +191,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ### Links
 
 - [Project Page on GitHub](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module)
-- [Discussion and Support via Discord (only for script)](https://discord.gg/ybWvSRfSY5) 
 
 ---
 
